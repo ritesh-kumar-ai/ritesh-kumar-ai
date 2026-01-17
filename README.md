@@ -1,35 +1,47 @@
-## 👋 Hi, I'm Ritesh Kumar  
+##<h2 align="center">Hi 👋, I'm Ritesh Kumar</h2>
+<h4 align="center">BTech CSE (Artificial Intelligence & Machine Learning)</h4>
 
-🎓 **BTech CSE (Artificial Intelligence & Machine Learning)**  
-🤖 Passionate about **Artificial Intelligence & Machine Learning**  
-
-I am a beginner programmer who is currently building strong fundamentals and exploring the field of AI step by step.
-
----
-
-## 🛠️ Skills  
-- **C Programming** (Basic)  
-- **Python** (Basic)  
-- **HTML & CSS** (Basic)  
+<p align="center">
+🤖 Aspiring AI Engineer | 🌱 Learning Programming Fundamentals
+</p>
 
 ---
 
-## 📂 Projects  
-- 📌 **Student Management System in C**  
+## 🚀 About Me
+- 🎓 Pursuing **BTech CSE (AI & ML)**
+- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
+- 🌱 Currently building **strong programming basics**
+- 📌 Using GitHub to document my learning journey
 
 ---
 
-## 📖 Currently Learning  
+## 🛠️ Skills
+| Language / Tech | Level |
+|-----------------|-------|
+| C Programming  | Basic |
+| Python         | Basic |
+| HTML & CSS     | Basic |
+
+---
+
+## 📂 Projects
+- 📌 **Student Management System in C**
+
+---
+
+## 📖 Currently Learning
 - Programming fundamentals  
 - Python for AI & ML  
-- Problem-solving and logic building  
+- Logical thinking & problem solving  
 
 ---
 
-## 🎯 Career Goal  
+## 🎯 Career Goal
 To become a **skilled AI Engineer** and work in the field of  
-**Artificial Intelligence & Machine Learning**  
+**Artificial Intelligence & Machine Learning**
 
 ---
 
-⭐ *This GitHub profile documents my learning journey and projects.*
+<p align="center">
+⭐ Thanks for visiting my GitHub profile ⭐
+</p>
