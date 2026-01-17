@@ -57,10 +57,14 @@ To become a **skilled AI Engineer** and work in the field of
 ---
 
 ## 🔗 Connect with Me
-<a href="https://www.linkedin.com/in/ritesh-kumar-38628a381" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-</a>
-_ _ _
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritesh-kumar-38628a381">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+
 <p align="center">
 ⭐ Thanks for visiting my GitHub profile ⭐  
 <br/>
