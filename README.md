@@ -1,26 +1,31 @@
-##<h2 align="center">Hi 👋, I'm Ritesh Kumar</h2>
+<h2 align="center">Hi 👋, I'm Ritesh Kumar</h2>
 <h4 align="center">BTech CSE (Artificial Intelligence & Machine Learning)</h4>
 
 <p align="center">
-🤖 Aspiring AI Engineer | 🌱 Learning Programming Fundamentals
+🤖 Aspiring AI Engineer &nbsp;|&nbsp; 🌱 Building Strong Programming Foundations
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritesh-kumar-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Pursuing **BTech CSE (AI & ML)**
-- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
-- 🌱 Currently building **strong programming basics**
-- 📌 Using GitHub to document my learning journey
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🌱 Currently learning **programming fundamentals**
+- 📌 Using GitHub to track my learning journey and projects
 
 ---
 
 ## 🛠️ Skills
-| Language / Tech | Level |
-|-----------------|-------|
-| C Programming  | Basic |
-| Python         | Basic |
-| HTML & CSS     | Basic |
+<p>
+  <img src="https://img.shields.io/badge/C-Programming-blue?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Basic-yellow?style=flat&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-Basic-orange?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-Basic-blue?style=flat&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
@@ -42,6 +47,16 @@ To become a **skilled AI Engineer** and work in the field of
 
 ---
 
+## 📊 GitHub Stats
 <p align="center">
-⭐ Thanks for visiting my GitHub profile ⭐
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-kumar-ai&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-kumar-ai&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my GitHub profile ⭐  
+<br/>
+🚀 *Learning today, building tomorrow*
 </p>
