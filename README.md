@@ -27,11 +27,14 @@
 </p>
 
 ---
+
 ## 🛠️ Tech Stack & Tools I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,github,vscode,linux" />
 </p>
+_ _ _
+
 
 ## 📂 Projects
 - 📌 **Student Management System in C**
