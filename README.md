@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Ritesh Kumar  
 
-<!--
-**ritesh-kumar-ai/ritesh-kumar-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BTech CSE (Artificial Intelligence & Machine Learning)**  
+🤖 Passionate about **Artificial Intelligence & Machine Learning**  
 
-Here are some ideas to get you started:
+I am a beginner programmer who is currently building strong fundamentals and exploring the field of AI step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills  
+- **C Programming** (Basic)  
+- **Python** (Basic)  
+- **HTML & CSS** (Basic)  
+
+---
+
+## 📂 Projects  
+- 📌 **Student Management System in C**  
+
+---
+
+## 📖 Currently Learning  
+- Programming fundamentals  
+- Python for AI & ML  
+- Problem-solving and logic building  
+
+---
+
+## 🎯 Career Goal  
+To become a **skilled AI Engineer** and work in the field of  
+**Artificial Intelligence & Machine Learning**  
+
+---
+
+⭐ *This GitHub profile documents my learning journey and projects.*
