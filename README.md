@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/C-Programming-blue?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-Basic-yellow?style=flat&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-Basic-orange?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-Basic-blue?style=flat&logo=css3&logoColor=white"/>
 </p>
 
 ---
